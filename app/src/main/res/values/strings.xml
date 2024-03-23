@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">E-Learning by Armel YMG</string>
+    <string name="forget_password">Mot de passe oublié ?</string>
+    <string name="login">SE CONNECTER</string>
+    <string name="register">S\'ENREGISTRER</string>
+    <string name="enter_phone_number">Entrer votre téléphone</string>
+    <string name="enter_fullname">Entrer votre nom complet</string>
+    <string name="enter_email">Entrer votre email</string>
+    <string name="enter_password">Entrer votre mot de passe</string>
+    <string name="confirm_password">Confirmer votre mot de passe</string>
+    <string name="remember_me">Se souvenir de moi</string>
+    <string name="create_account">Créer un compte</string>
+
+
+    <!-- PublishCourse Screen Strings -->
+    <string name="enter_title">Entrer le titre du cours</string>
+    <string name="enter_subtitle">Entrer le nom de l\'auteur</string>
+
+    <!-- Profile Screen Strings -->
+    <string name="edit_profile">Editer le profil</string>
+    <string name="notif">Notifications</string>
+    <string name="settings">Paramètres</string>
+    <string name="share">Partager</string>
+    <string name="logout">Se déconnecter</string>
+    <string name="profile">Profile</string>
+
+
+    <string name="notif_icon_desc">Notif Icon</string>
+    <string name="photo_profile">Photo de profil</string>
+    <string name="more">More Info Icon</string>
+    <string name="settings_icon">Settings Icon</string>
+    <string name="share_icon">Share Icon</string>
+
+
+</resources>

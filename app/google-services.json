@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714197513169",
+    "project_id": "projet-epo",
+    "storage_bucket": "projet-epo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714197513169:android:d1ea3541d6d5ffddc126f0",
+        "android_client_info": {
+          "package_name": "com.example.e_learningbyarmelymg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2NRHsma1iD9krl3dpQ42JCrYweyJDHpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
